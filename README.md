@@ -18,6 +18,7 @@ ydlidar_ros2_driver depends on YDLidar-SDK library. If you have never installed 
 
 1. Download or clone the [YDLIDAR/YDLidar-SDK](https://github.com/YDLIDAR/YDLidar-SDK) repository on GitHub.
 2. Compile and install the YDLidar-SDK under the ***build*** directory following `README.md` of YDLIDAR/YDLidar-SDK.
+3. if you try to install on ubuntu 22.04 or arm64, check this [Gist documnet.](https://gist.github.com/zygn/8feb895004a7a34b6e41064e796511f5)
 
 ## Clone ydlidar_ros2_driver
 
